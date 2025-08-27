@@ -1,4 +1,4 @@
-Flight Reservation System
+# Flight Reservation System
 
 A simple desktop application built with Python, Tkinter, and SQLite that allows users to manage flights and reservations.
 
